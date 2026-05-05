@@ -120,6 +120,8 @@ function assetFileName(assetUrl, contentType, usedNames) {
 }
 
 async function autoScroll(page) {
+  // A lot of modern landing pages lazy-load sections. Scrolling once before the
+  // screenshot gives us a fuller page and catches assets the first paint misses.
   await page.evaluate(async () => {
     await new Promise((resolve) => {
       let totalHeight = 0;
@@ -177,6 +179,8 @@ async function collectWebsite(options) {
     deviceScaleFactor: 1
   });
 
+  // We listen to real network responses first because those are usually the
+  // cleanest source of image bytes and content-types.
   page.on("response", async (response) => {
     const responseUrl = response.url();
     const contentType = response.headers()["content-type"] || "";
@@ -231,6 +235,8 @@ async function collectWebsite(options) {
 
   for (const assetUrl of allImageUrls) {
     try {
+      // First prefer the response we already saw in the browser session; if that
+      // asset never showed up there, fall back to a direct request.
       const existing = imageResponses.get(assetUrl);
       const response = existing?.response || await page.request.get(assetUrl);
       if (!response.ok()) continue;

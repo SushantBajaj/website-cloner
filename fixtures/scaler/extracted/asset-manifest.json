@@ -18,10 +18,10 @@
     "bytes": 3180
   },
   {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/25x44/364cba3558/stars-review.png",
-    "file": "images/stars-review.png",
-    "contentType": "image/png",
-    "bytes": 1818
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/4758x486/48e3f78d60/instructor_1.webp?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
+    "file": "images/instructor_1.webp",
+    "contentType": "image/webp",
+    "bytes": 172648
   },
   {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/49x82/1d9d2bb1d0/rectangle-736.png",
@@ -30,46 +30,10 @@
     "bytes": 6199
   },
   {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/25x44/bdbaf7229c/stars-revew-right.png",
-    "file": "images/stars-revew-right.png",
-    "contentType": "image/png",
-    "bytes": 1729
-  },
-  {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/5052x486/a4833edad9/scaler-people-20.webp?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
     "file": "images/scaler-people-20.webp",
     "contentType": "image/webp",
     "bytes": 136882
-  },
-  {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1280x720/74665918a1/success-stories-video-thumbnail.webp",
-    "file": "images/success-stories-video-thumbnail.webp",
-    "contentType": "image/webp",
-    "bytes": 88226
-  },
-  {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1800x2100/59ac81abf7/support.webp",
-    "file": "images/support.webp",
-    "contentType": "image/webp",
-    "bytes": 527264
-  },
-  {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1800x1683/f6acf751e2/usp_mentor.webp",
-    "file": "images/usp_mentor.webp",
-    "contentType": "image/webp",
-    "bytes": 126686
-  },
-  {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1021x72/79db75d5ac/enterprise_logos.webp?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
-    "file": "images/enterprise_logos.webp",
-    "contentType": "image/webp",
-    "bytes": 13492
-  },
-  {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/4758x486/48e3f78d60/instructor_1.webp?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
-    "file": "images/instructor_1.webp",
-    "contentType": "image/webp",
-    "bytes": 172648
   },
   {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1280x720/8b8c20976b/arf4uvlyfas-hd.webp",
@@ -78,16 +42,40 @@
     "bytes": 73426
   },
   {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/480x360/0c4b72f626/mttfb7u4li8-hq.jpg",
+    "file": "images/mttfb7u4li8-hq.jpg",
+    "contentType": "image/jpeg",
+    "bytes": 28552
+  },
+  {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/25x44/bdbaf7229c/stars-revew-right.png",
+    "file": "images/stars-revew-right.png",
+    "contentType": "image/png",
+    "bytes": 1729
+  },
+  {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1280x720/74665918a1/success-stories-video-thumbnail.webp",
+    "file": "images/success-stories-video-thumbnail.webp",
+    "contentType": "image/webp",
+    "bytes": 88226
+  },
+  {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/25x44/364cba3558/stars-review.png",
+    "file": "images/stars-review.png",
+    "contentType": "image/png",
+    "bytes": 1818
+  },
+  {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/320x489/9a1589006e/relevance-bg-mobile.png",
     "file": "images/relevance-bg-mobile.png",
     "contentType": "image/png",
     "bytes": 127401
   },
   {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1800x2100/c179f519fb/usp-curricullum-1.webp",
-    "file": "images/usp-curricullum-1.webp",
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1021x72/79db75d5ac/enterprise_logos.webp?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
+    "file": "images/enterprise_logos.webp",
     "contentType": "image/webp",
-    "bytes": 244740
+    "bytes": 13492
   },
   {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1800x2100/cde44442da/lifetime.webp",
@@ -96,28 +84,28 @@
     "bytes": 133328
   },
   {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/480x360/0c4b72f626/mttfb7u4li8-hq.jpg",
-    "file": "images/mttfb7u4li8-hq.jpg",
-    "contentType": "image/jpeg",
-    "bytes": 28552
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1160x270/88d4edca29/relevance-bg-desktop.png",
+    "file": "images/relevance-bg-desktop.png",
+    "contentType": "image/png",
+    "bytes": 263351
+  },
+  {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1800x1683/f6acf751e2/usp_mentor.webp",
+    "file": "images/usp_mentor.webp",
+    "contentType": "image/webp",
+    "bytes": 126686
+  },
+  {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1800x2100/f5af4b5f8a/usp-projects-1.webp",
+    "file": "images/usp-projects-1.webp",
+    "contentType": "image/webp",
+    "bytes": 135420
   },
   {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/20x20/bf7dc137f8/twitter_icon.svg",
     "file": "images/twitter_icon.svg",
     "contentType": "image/svg+xml",
     "bytes": 595
-  },
-  {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/4464x486/fd55f9ddd4/scaler-people-carousel-1.webp?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
-    "file": "images/scaler-people-carousel-1.webp",
-    "contentType": "image/webp",
-    "bytes": 167790
-  },
-  {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1800x2100/87385fcbb7/platform.webp",
-    "file": "images/platform.webp",
-    "contentType": "image/webp",
-    "bytes": 122686
   },
   {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/531x66/3f40d5ecb3/collab_logos.webp?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
@@ -132,28 +120,40 @@
     "bytes": 1683
   },
   {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1800x2100/f5af4b5f8a/usp-projects-1.webp",
-    "file": "images/usp-projects-1.webp",
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/4464x486/fd55f9ddd4/scaler-people-carousel-1.webp?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
+    "file": "images/scaler-people-carousel-1.webp",
     "contentType": "image/webp",
-    "bytes": 135420
+    "bytes": 167790
   },
   {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1160x270/88d4edca29/relevance-bg-desktop.png",
-    "file": "images/relevance-bg-desktop.png",
-    "contentType": "image/png",
-    "bytes": 263351
-  },
-  {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/190x40/762eb27df8/scaler-logo.svg?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
-    "file": "images/scaler-logo-2.svg",
-    "contentType": "image/svg+xml",
-    "bytes": 4354
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1800x2100/59ac81abf7/support.webp",
+    "file": "images/support.webp",
+    "contentType": "image/webp",
+    "bytes": 527264
   },
   {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1440x660/99c497144a/why-scaler-bg.webp",
     "file": "images/why-scaler-bg.webp",
     "contentType": "image/webp",
     "bytes": 83472
+  },
+  {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1800x2100/c179f519fb/usp-curricullum-1.webp",
+    "file": "images/usp-curricullum-1.webp",
+    "contentType": "image/webp",
+    "bytes": 244740
+  },
+  {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1800x2100/87385fcbb7/platform.webp",
+    "file": "images/platform.webp",
+    "contentType": "image/webp",
+    "bytes": 122686
+  },
+  {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/190x40/762eb27df8/scaler-logo.svg?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
+    "file": "images/scaler-logo-2.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 4354
   },
   {
     "url": "https://www.scaler.com/favicon.ico?favicon.0j7c6zbq3jvq6.ico",
@@ -168,34 +168,40 @@
     "bytes": 65580
   },
   {
-    "url": "https://i.ytimg.com/vi_webp/F0cHJaMVzYw/default.webp",
-    "file": "images/default.webp",
-    "contentType": "image/webp",
-    "bytes": 3334
-  },
-  {
-    "url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/volume_min/v2/24px.svg",
-    "file": "images/24px.svg",
-    "contentType": "image/svg+xml",
-    "bytes": 363
+    "url": "https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=1100E149F2D2464CADB3EB7B34B87373&MUID=3460D3C86C1A6669052CC4986D81676C",
+    "file": "images/c.gif",
+    "contentType": "image/gif",
+    "bytes": 42
   },
   {
     "url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/volume_max/v2/24px.svg",
-    "file": "images/24px-2.svg",
+    "file": "images/24px.svg",
     "contentType": "image/svg+xml",
     "bytes": 453
   },
   {
     "url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/player_full_enter_alt/v1/24px.svg",
-    "file": "images/24px-3.svg",
+    "file": "images/24px-2.svg",
     "contentType": "image/svg+xml",
     "bytes": 858
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/volume_min/v2/24px.svg",
+    "file": "images/24px-3.svg",
+    "contentType": "image/svg+xml",
+    "bytes": 363
   },
   {
     "url": "https://fonts.gstatic.com/s/i/youtube_fill_experimental/volume_mute/v2/24px.svg",
     "file": "images/24px-4.svg",
     "contentType": "image/svg+xml",
     "bytes": 429
+  },
+  {
+    "url": "https://i.ytimg.com/vi_webp/F0cHJaMVzYw/default.webp",
+    "file": "images/default.webp",
+    "contentType": "image/webp",
+    "bytes": 3334
   },
   {
     "url": "https://www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
@@ -210,12 +216,6 @@
     "bytes": 96856
   },
   {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1280x720/f418a6cfc4/scaler-podcast-sherlocks.webp?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
-    "file": "images/scaler-podcast-sherlocks.webp",
-    "contentType": "image/webp",
-    "bytes": 135156
-  },
-  {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1280x720/a3d6c29d84/scaler-podcast-ripling.webp?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
     "file": "images/scaler-podcast-ripling.webp",
     "contentType": "image/webp",
@@ -228,10 +228,34 @@
     "bytes": 186681
   },
   {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1280x720/f418a6cfc4/scaler-podcast-sherlocks.webp?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
+    "file": "images/scaler-podcast-sherlocks.webp",
+    "contentType": "image/webp",
+    "bytes": 135156
+  },
+  {
+    "url": "https://c.webengage.com/l4.jpg",
+    "file": "images/l4.jpg",
+    "contentType": "image/gif",
+    "bytes": 43
+  },
+  {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1160x474/6cbf22ee86/placement-proof-default.jpg?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",
     "file": "images/placement-proof-default.jpg",
     "contentType": "image/jpeg",
     "bytes": 630642
+  },
+  {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1677x950/071cfed1ec/google_start-up_-news.webp",
+    "file": "images/google_start-up_-news.webp",
+    "contentType": "image/webp",
+    "bytes": 19848
+  },
+  {
+    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1677x950/ed55af579b/pgp_news.webp",
+    "file": "images/pgp_news.webp",
+    "contentType": "image/webp",
+    "bytes": 71290
   },
   {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1677x950/b1e08840fb/gahan-ai_news.webp",
@@ -246,22 +270,10 @@
     "bytes": 67008
   },
   {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1677x950/071cfed1ec/google_start-up_-news.webp",
-    "file": "images/google_start-up_-news.webp",
-    "contentType": "image/webp",
-    "bytes": 19848
-  },
-  {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1128x633/32d63ff78e/blog_3.webp",
     "file": "images/blog_3.webp",
     "contentType": "image/webp",
     "bytes": 36162
-  },
-  {
-    "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/1677x950/ed55af579b/pgp_news.webp",
-    "file": "images/pgp_news.webp",
-    "contentType": "image/webp",
-    "bytes": 71290
   },
   {
     "url": "https://www.scaler.com/storyblok-assets/f/290352327034910/80x80/d9ae1ac25e/iso-27001-scaler-badge.svg?dpl=dpl_WTNRiBu8Y2rhSD7N7gc94ULGs68P",

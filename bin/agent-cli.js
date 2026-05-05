@@ -13,6 +13,8 @@ const scalerFixture = {
   rawResponse: path.join(cwd, "fixtures", "scaler", "last-model-response.txt")
 };
 
+// The assignment wants the agent to show its loop, so every meaningful step is
+// printed in a structured way that reads well in the terminal and in recordings.
 function logStep(step, content, extra = {}) {
   console.log(JSON.stringify({ step, content, ...extra }, null, 2));
 }
@@ -119,6 +121,8 @@ async function collectWebsite(url) {
   };
 }
 
+// This is the handoff between the conversational agent and the lower-level
+// generator. The agent decides the context; image-site.js does the heavy lift.
 async function generateCloneFromContext({
   screenshotDir,
   assetDir,
@@ -281,6 +285,8 @@ async function handleUserMessage(message) {
 
   const url = extractUrl(message);
   if (url) {
+    // URL mode is the "general website clone" path: collect fresh browser data,
+    // then generate from that instead of from the built-in Scaler fixture.
     logStep("START", `User wants to clone a new website: ${url}`);
     logStep("THINK", "I need to collect browser-rendered reference data before generation.");
     logStep("TOOL", "Collecting screenshot, rendered source, and image assets.", { tool_name: "collectWebsite", tool_args: url });
@@ -311,6 +317,8 @@ async function handleUserMessage(message) {
   }
 
   const fresh = wantsFreshGeneration(message) || process.argv.includes("--fresh");
+  // Scaler mode is optimized for demos: default to the local fixture, but let
+  // the user say "fresh" when they want a real Gemini call.
   logStep("START", "User wants the Scaler Academy website cloned into working HTML, CSS, and JavaScript.");
   logStep("THINK", "I need reference data first: screenshot, extracted assets, and saved page source.");
   logStep("TOOL", "Preparing the built-in Scaler fixture.", { tool_name: "prepareScalerContext", tool_args: "scaler" });

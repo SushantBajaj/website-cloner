@@ -8,8 +8,8 @@ import { execFile, spawn } from "node:child_process";
 import { promisify } from "node:util";
 
 const GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models";
-const DEFAULT_MODEL = "gemini-2.5-flash";
-const FALLBACK_MODELS = ["gemini-2.0-flash", "gemini-2.0-flash-lite"];
+const DEFAULT_MODEL = "gemini-flash-latest";
+const FALLBACK_MODELS = ["gemini-2.5-flash","gemini-2.5-flash-lite","gemini-2.0-flash", "gemini-2.0-flash-lite"];
 const execFileAsync = promisify(execFile);
 const IMAGE_EXTENSIONS = new Set([".png", ".jpg", ".jpeg", ".webp", ".gif", ".bmp", ".avif", ".svg", ".ico"]);
 const VISION_PREVIEW_EXTENSIONS = new Set([".png", ".jpg", ".jpeg", ".webp", ".gif", ".bmp", ".avif"]);
@@ -29,9 +29,9 @@ const MIME_TYPES = {
   ".ico": "image/x-icon"
 };
 const MAX_OUTPUT_TOKENS = 30000;
-const DEFAULT_MAX_SCREENSHOT_REFERENCES = 4;
+const DEFAULT_MAX_SCREENSHOT_REFERENCES = 8;
 const MAX_ASSET_PREVIEWS = 0;
-const DEFAULT_SOURCE_BRIEF_CHARS = 18000;
+const DEFAULT_SOURCE_BRIEF_CHARS = 50000;
 const DEFAULT_REFERENCE_IMAGE_MAX_WIDTH = 960;
 const DEFAULT_REFERENCE_IMAGE_QUALITY = 60;
 
@@ -241,6 +241,8 @@ async function prepareContentAssets(imagePaths, imageFolder, outDir) {
     let fileName = `${baseName}${ext}`;
     let counter = 2;
 
+    // Keep local asset names stable and readable so the model has a better shot
+    // at picking the right image from the manifest.
     while (usedNames.has(fileName)) {
       fileName = `${baseName}-${counter}${ext}`;
       counter += 1;
@@ -320,6 +322,8 @@ async function buildReferenceImages(manifest, options = {}) {
     }
 
     await mkdir(slicesDir, { recursive: true });
+    // Very tall screenshots tend to be useless as a single image. Slicing them
+    // gives Gemini something closer to how a person would inspect the page.
     const sliceHeight = Math.min(1400, Math.max(900, Math.round(dimensions.width * 2.6)));
     const remainingSlots = maxReferenceImages - references.length;
     const sliceCount = Math.min(remainingSlots, Math.ceil(dimensions.height / sliceHeight));
@@ -600,6 +604,8 @@ async function buildSourceBrief(sourceFile, manifest, maxChars = DEFAULT_SOURCE_
   const structure = extractStructureBrief(cleanHtml);
   const text = extractTextBrief(cleanHtml);
 
+  // We do not send raw page source. We turn it into a compact brief so the
+  // model gets structure and copy without drowning in framework noise.
   return [
     `Source file: ${path.basename(sourceFile)} (${html.length} bytes raw, cleaned and summarized below)`,
     "",
@@ -1266,6 +1272,8 @@ async function generateWithGemini({ manifest, referenceImages, sourceBrief, mode
   }
   console.log(`Gemini key: ${fingerprintSecret(key)}${apiKey ? " (--api-key)" : envKeysSkippedFromFile.has("GEMINI_API_KEY") ? " (environment variable; .env value was ignored)" : " (env/.env)"}.`);
 
+  // Log a payload breakdown because Gemini quota issues are much easier to debug
+  // when we can see whether the weight is mostly text, screenshots, or both.
   const parts = await makeGeminiParts(manifest, referenceImages, sourceBrief);
   const partSummary = summarizeGeminiParts(parts);
   const body = JSON.stringify({
