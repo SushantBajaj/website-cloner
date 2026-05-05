@@ -217,22 +217,6 @@ If the generated site looks generic:
 - make sure extracted assets really came from the target website
 - use fresh generation only when the Gemini project is healthy
 
-## Notes For Submission
-
-The assignment asks for:
-
-1. A public GitHub repository.
-2. A 2 to 3 minute demo video.
-3. A working clone of the Scaler Academy website.
-4. A visible agent loop in the terminal.
-
-For the cleanest video:
-
-- show `npm start`
-- type `clone scaler academy`
-- let the loop print its reasoning steps
-- open the generated site
-- briefly show the output files in `generated-site/`
 
 ## Core Files
 
