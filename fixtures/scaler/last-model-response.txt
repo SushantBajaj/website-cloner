@@ -1,0 +1,2410 @@
+---FILE:index.html---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Become the Professional Built for the Next Decade in AI.</title>
+    <meta name="description" content="The investment that compounds. Scaler gives you strong technical foundations, AI integrated at every stage, and a curriculum that evolves as the market does.">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="icon" href="assets/images-favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="container navbar-content">
+                <a href="#" class="logo">
+                    <img src="assets/images-scaler-logo.svg" alt="Scaler Logo">
+                </a>
+                <div class="nav-links">
+                    <div class="dropdown">
+                        <button class="nav-button">PROGRAM <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down size-5 transition-transform" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></button>
+                        <!-- Dropdown content here -->
+                    </div>
+                    <a href="#" class="nav-link">MASTERCLASS</a>
+                    <a href="#" class="nav-link">AI LABS</a>
+                    <a href="#" class="nav-link">ALUMNI</a>
+                    <div class="dropdown">
+                        <button class="nav-button">RESOURCES <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down size-5 transition-transform" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></button>
+                        <!-- Dropdown content here -->
+                    </div>
+                </div>
+                <div class="nav-actions">
+                    <button class="btn btn-secondary">Login</button>
+                    <button class="btn btn-primary">Placement Report</button>
+                </div>
+            </div>
+        </nav>
+        <nav class="sticky-nav">
+            <div class="container sticky-nav-content">
+                <a href="#whyscaler" class="sticky-nav-link">Why Scaler</a>
+                <a href="#stories" class="sticky-nav-link">Stories</a>
+                <a href="#instructors" class="sticky-nav-link">People Behind Scaler</a>
+                <a href="#podcast" class="sticky-nav-link">Podcast</a>
+                <a href="#report" class="sticky-nav-link">The market has already changed</a>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero-section">
+            <div class="container hero-content">
+                <p class="hero-subtitle">THE MARKET HAS ALREADY CHANGED</p>
+                <h1 class="hero-title">
+                    Become the Professional <span class="highlight-text">Built</span> for the <span class="highlight-text">Next Decade</span> in <span class="highlight-text">AI.</span>
+                </h1>
+                <p class="hero-description">
+                    The investment that compounds. Strong technical foundations, AI integrated at every stage, and a curriculum that evolves as the market does
+                </p>
+                <div class="program-categories">
+                    <span>Modern Software and AI engineering</span>
+                    <span>Modern Data Science and ML with Specialisation in AI</span>
+                    <span>Advanced AIML with Agentic AI</span>
+                    <span>DevOps, Cloud & AI Platform Engineering</span>
+                </div>
+                <div class="hero-actions">
+                    <button class="btn btn-primary">REQUEST A CALLBACK</button>
+                    <button class="btn btn-outline">BOOK FREE LIVE CLASS</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="cta-bar cta-bar-ai-ready">
+            <div class="container cta-bar-content">
+                <div class="cta-bar-text">
+                    <img src="assets/images-rectangle-737.png" alt="Sparkle icon" class="cta-icon">
+                    <span>Check how AI-Ready is your profile</span>
+                </div>
+                <button class="btn btn-primary">UNLOCK YOUR SCORE NOW</button>
+            </div>
+        </section>
+
+        <section id="whyscaler" class="why-scaler-section">
+            <div class="container why-scaler-content">
+                <p class="section-tag">WHY SCALER</p>
+                <h2 class="section-title">Built Different, Designed to Last</h2>
+                <p class="section-description">Four things no other program gives you</p>
+
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <img src="assets/images-02ce92df-384b-4691-9ea8-937efa66d041.svg" alt="AI-Integrated Curriculum icon" class="feature-icon">
+                        <h3>AI-Integrated Curriculum</h3>
+                        <p>AI-integrated curriculum. Every phase is structured around how the best technical teams work today, with AI embedded in how problems are framed, built, and shipped. Updated quarterly</p>
+                    </div>
+                    <div class="feature-card">
+                        <img src="assets/images-3cf115f1-a2fc-46fc-9736-538fb0db9a5d.svg" alt="AI Powered Platform icon" class="feature-icon">
+                        <h3>AI Powered Platform</h3>
+                        <p>AI-assisted coding woven into every lab, assignment, and DSA problem with a 24×7 AI Companion that hints, critiques, and pair-programs alongside you. Specialisation in Generative AI included</p>
+                    </div>
+                    <div class="feature-card">
+                        <img src="assets/images-3d8c341a-3e06-437e-b1b7-f9753f21df1b.svg" alt="Lifelong Learning Access icon" class="feature-icon">
+                        <h3>Lifelong Learning Access</h3>
+                        <p>The curriculum moves as the market does. When the industry shifts, your knowledge shifts with it at no extra cost. You're not buying a 2026 snapshot. You're buying a living system. Built to last</p>
+                    </div>
+                    <div class="feature-card">
+                        <img src="assets/images-8d84b821-2f1f-426b-ab8c-4d4dcc5f0e60.svg" alt="Strong Foundations icon" class="feature-icon">
+                        <h3>Strong Foundations</h3>
+                        <p>The things that matter in software don't change as fast as the headlines. DSA. System design. Engineering judgment. AI makes those fundamentals hit harder not the other way around Depth that doesn't expire</p>
+                    </div>
+                </div>
+                <p class="curriculum-by">AI-first curriculum built by 100+ engineers from</p>
+                <div class="logo-strip">
+                    <img src="assets/images-ticker-logo.webp" alt="Company logos" class="marquee-image">
+                </div>
+            </div>
+        </section>
+
+        <section class="cta-bar cta-bar-download">
+            <div class="container cta-bar-content">
+                <div class="cta-bar-text">
+                    <img src="assets/images-rectangle-737.png" alt="Sparkle icon" class="cta-icon">
+                    <span>Ready to join Scaler and take your first step towards success?</span>
+                </div>
+                <button class="btn btn-primary">DOWNLOAD BROCHURE</button>
+            </div>
+        </section>
+
+        <section id="program" class="program-section">
+            <div class="container program-content">
+                <p class="section-tag">PROGRAM</p>
+                <h2 class="section-title">Find the AI Path for your role</h2>
+                <p class="section-description">Instructors, mentors, and leaders from industry who shape what you learn and how you grow.</p>
+
+                <div class="program-tabs">
+                    <button class="program-tab active" data-tab="academy">Academy Online Courses for Professionals</button>
+                    <button class="program-tab" data-tab="techvarsity">Techvarsity PGP Programs</button>
+                    <button class="program-tab" data-tab="edge">Edge Partner Programs</button>
+                    <button class="program-tab" data-tab="offline">Offline On Campus Program</button>
+                </div>
+
+                <div class="program-details-wrapper">
+                    <div class="program-nav">
+                        <button class="program-nav-item active" data-program="software-engineer">AI Software Engineer</button>
+                        <button class="program-nav-item" data-program="data-scientist">AI Data Scientist & ML</button>
+                        <button class="program-nav-item" data-program="devops">DevOps, Cloud & AI Platform...</button>
+                        <button class="program-nav-item" data-program="advanced-ai-ml">Advanced AI & ML</button>
+                    </div>
+
+                    <div class="program-card" id="software-engineer-details">
+                        <p class="program-card-tag">FOR ENGINEERS BUILDING APPS & SYSTEMS</p>
+                        <div class="program-card-header">
+                            <h3 class="program-card-title">Modern Software & AI Engineering</h3>
+                            <div class="program-card-meta">
+                                <div class="rating">
+                                    <img src="assets/images-stars-review.png" alt="Stars" class="stars-icon">
+                                    <span>4.8+</span>
+                                    <img src="assets/images-stars-revew-right.png" alt="Stars" class="stars-icon">
+                                    <span class="rating-count">(25K+ Ratings)</span>
+                                </div>
+                                <div class="duration">12 Months</div>
+                            </div>
+                        </div>
+                        <div class="program-card-body">
+                            <h4>WHAT YOU'LL BUILD</h4>
+                            <ul>
+                                <li><span>01</span> Strong engineering fundamentals- DSA, system design, and backend architecture built to the depth product company interviews demand.</li>
+                                <li><span>02</span> AI woven into every lab, assignment, and DSA problem - with a 24×7 AI Companion that hints, critiques your approach, and pair-programs alongside you.</li>
+                                <li><span>03</span> Specialisation in Generative AI build, evaluate, and ship production AI systems as part of the programme</li>
+                            </ul>
+                            <h4>HOW ROLES EVOLVE WITH AI?</h4>
+                            <p>Forward Deployed Engineers who embed with customers to build and deploy AI solutions directly within real-world business workflows</p>
+                            <img src="assets/images-rectangle-736.png" alt="Decorative element" class="program-card-decoration">
+                        </div>
+                        <div class="program-card-actions">
+                            <button class="btn btn-outline">Go To Program</button>
+                            <button class="btn btn-primary">DOWNLOAD BROCHURE</button>
+                        </div>
+                    </div>
+                    <!-- Other program details cards would go here, hidden by default -->
+                </div>
+            </div>
+        </section>
+
+        <section id="stories" class="stories-section">
+            <div class="container stories-content">
+                <p class="section-tag">STORIES</p>
+                <h2 class="section-title">Real AI-era career moves, not generic success stories.</h2>
+                <p class="section-description">Numbers tell part of the story. These are the role shifts behind them.</p>
+
+                <div class="stories-grid">
+                    <div class="story-card">
+                        <div class="story-hike">214% <span class="hike-label">Hike</span></div>
+                        <p class="story-name">Shivam Prakash</p>
+                        <p class="story-role">Computer Scientist, Adobe</p>
+                        <p class="story-before">Before: Backend Engineer, Ericsson</p>
+                        <p class="story-now">Now: Computer Scientist, Adobe</p>
+                        <div class="story-offers">3 OFFERS</div>
+                        <a href="#" class="story-explore">Explore more →</a>
+                    </div>
+                    <div class="story-card story-card-quote">
+                        <p class="story-quote">“ This journey has been an incredible blend of theoretical knowledge and hands-on experience, equipping me with the skills to tackle real-world challenges in the dynamic field of AI and ML. I'm excited to leverage this…</p>
+                        <div class="story-rating">★★★★★</div>
+                        <p class="story-name">Sahil Bansal</p>
+                        <p class="story-role">Data Scientist, Fractal</p>
+                    </div>
+                    <div class="story-card story-card-image">
+                        <img src="assets/images-mttfb7u4li8-hq.jpg.jpeg" alt="Arun M V" class="story-image">
+                        <p class="story-name">Arun M V</p>
+                        <p class="story-role">Applied scientist, GoKwik</p>
+                    </div>
+                    <div class="story-card">
+                        <div class="story-hike">250% <span class="hike-label">Hike</span></div>
+                        <p class="story-name">Divyanshu Tanter</p>
+                        <p class="story-role">AI Researcher and Developer, Dassault Systems</p>
+                        <p class="story-before">Before: Data Scientist, Wipro Limited</p>
+                        <p class="story-now">Now: AI Researcher and Developer, Dassault Systems</p>
+                        <div class="story-offers">4 OFFERS</div>
+                        <a href="#" class="story-explore">Explore more →</a>
+                    </div>
+                    <div class="story-card story-card-quote">
+                        <p class="story-quote">“ In just 2.5 months of joining Scaler, I not only learned the fundamentals but also advanced-level concepts in Data Science and Machine Learning. The structured approach, comprehensive curriculum, and unwavering guidan…</p>
+                        <div class="story-rating">★★★★★</div>
+                        <p class="story-name">Akshat Arora</p>
+                        <p class="story-role">Data Scientist, Landmark Group</p>
+                    </div>
+                    <div class="story-card story-card-image">
+                        <img src="assets/images-arf4uvlyfas-hd.webp" alt="Madhuri Kukreja" class="story-image">
+                        <p class="story-name">Madhuri Kukreja</p>
+                        <p class="story-role">Associate Analyst, Razorpay</p>
+                        <p class="story-before">Before: Associate Analyst, XL Dynamics</p>
+                        <p class="story-now">Now: Associate Analyst, Razorpay</p>
+                    </div>
+                    <div class="story-card">
+                        <div class="story-hike">142% <span class="hike-label">Hike</span></div>
+                        <p class="story-name">Sayyam Bhandari</p>
+                        <p class="story-role">Data Engineer, Amazon</p>
+                        <p class="story-before">Before: Sr BI Analyst, USEReady INC.</p>
+                        <p class="story-now">Now: Data Engineer, Amazon</p>
+                        <div class="story-offers">2 OFFERS</div>
+                        <a href="#" class="story-explore">Explore more →</a>
+                    </div>
+                    <div class="story-card story-card-quote">
+                        <p class="story-quote">“ Scaler Academy's program is truly exceptional, providing me with the skills and confidence necessary to thrive in the field of Full-Stack_Data Engineer. The practical projects and real-world scenarios prepared me well…</p>
+                        <div class="story-rating">★★★★★</div>
+                        <p class="story-name">Vempali B N V D Sivasanthosh</p>
+                        <p class="story-role">Full Stack data Engineer, Fractal</p>
+                    </div>
+                    <div class="story-card story-card-video">
+                        <img src="assets/images-success-stories-video-thumbnail.webp" alt="Video thumbnail" class="story-video-thumbnail">
+                        <button class="play-button"></button>
+                        <p class="story-name">Rajesh Somasundaram</p>
+                        <p class="story-role">Machine Learning Ops Engineer-2, NinjaCart</p>
+                        <p class="story-before">Before: Software Engineer - II, HERE Technologies</p>
+                        <p class="story-now">Now: Machine Learning Ops Engineer-2, NinjaCart</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="instructors" class="instructors-section">
+            <div class="container instructors-content">
+                <p class="section-tag">INSTRUCTORS/MENTORS</p>
+                <h2 class="section-title">The People Behind Scaler</h2>
+                <p class="section-description">Instructors, mentors, and leaders from industry who shape what you learn and how you grow.</p>
+                <div class="instructor-marquee">
+                    <img src="assets/images-instructor_1.webp" alt="Instructor carousel" class="marquee-image">
+                    <img src="assets/images-scaler-people-20.webp" alt="Instructor carousel" class="marquee-image">
+                    <img src="assets/images-scaler-people-carousel-1.webp" alt="Instructor carousel" class="marquee-image">
+                </div>
+            </div>
+        </section>
+
+        <section id="podcast" class="podcast-section">
+            <div class="container podcast-content">
+                <p class="section-tag">PODCAST</p>
+                <h2 class="section-title">Conversations with the people shaping AI</h2>
+                <p class="section-description">Founders, engineers, and researchers share what they are actually building, hiring for, and betting on</p>
+
+                <div class="podcast-grid">
+                    <a href="#" class="podcast-card main-podcast">
+                        <img src="assets/images-logic-coding-vibe-coded.webp" alt="Coding Isn’t Enough to Build Great Products podcast thumbnail" class="podcast-thumbnail">
+                        <div class="podcast-info">
+                            <h3>Coding Isn’t Enough to Build Great Products</h3>
+                            <p>ft. Akhil Gupta</p>
+                            <p class="podcast-guest">Founder Insights, @NoBrokerOfficial</p>
+                        </div>
+                    </a>
+                    <a href="#" class="podcast-card">
+                        <img src="assets/images-scaler-podcast-ripling.webp" alt="The Engineer of 2026 Will Look Very Different podcast thumbnail" class="podcast-thumbnail">
+                        <div class="podcast-info">
+                            <h3>The Engineer of 2026 Will Look Very Different</h3>
+                            <p>ft. Albert Strasheim</p>
+                            <p class="podcast-guest">CTO @ Rippling</p>
+                        </div>
+                    </a>
+                    <a href="#" class="podcast-card">
+                        <img src="assets/images-scaler-podcast-sherlocks.webp" alt="Building AI Products That Actually Work podcast thumbnail" class="podcast-thumbnail">
+                        <div class="podcast-info">
+                            <h3>Building AI Products That Actually Work</h3>
+                            <p>ft. Gaurav Toshniwal</p>
+                            <p class="podcast-guest">Founder @Sherlocks.ai</p>
+                        </div>
+                    </a>
+                    <a href="#" class="podcast-card">
+                        <img src="assets/images-scaler-podcast-primal-cto.jpg.jpeg" alt="How Tech Drives Business Outcomes podcast thumbnail" class="podcast-thumbnail">
+                        <div class="podcast-info">
+                            <h3>How Tech Drives Business Outcomes</h3>
+                            <p>ft. Saurabh Mittal</p>
+                            <p class="podcast-guest">CTO @PiramalFinance</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section id="usp" class="how-scaler-works-section">
+            <div class="container how-scaler-works-content">
+                <p class="section-tag">HOW SCALER WORKS</p>
+                <h2 class="section-title">This isn't an AI content library. It's a system built around AI-era progress.</h2>
+                <p class="section-description">Designed for people with jobs, ambition, and limited time. Structure, people, practice, an accountability are built in so AI upskilling turns into capability, not content consumption</p>
+
+                <div class="usp-grid">
+                    <div class="usp-item">
+                        <img src="assets/images-usp-curricullum-1.webp" alt="AI-first structured curriculum" class="usp-image">
+                        <div class="usp-text">
+                            <span class="usp-number">01</span>
+                            <h3>AI-first structured curriculum</h3>
+                            <p>AI-first structured curriculum. Not retrofitted. Rebuilt. Every module reflects how the best engineering and data teams work today with AI-assisted workflows, current interview standards, and the roles companies are hiring for now</p>
+                        </div>
+                    </div>
+                    <div class="usp-item">
+                        <img src="assets/images-usp_mentor.webp" alt="1:1 mentor support" class="usp-image">
+                        <div class="usp-text">
+                            <span class="usp-number">02</span>
+                            <h3>1:1 mentor support</h3>
+                            <p>The people who guide you are also building the industry Your mentors are active industry professionals,currently employed, currently hiring, currently solving the same problems you will face. They review your work, unblock you in real time, and bring the kind of judgment tha…</p>
+                        </div>
+                    </div>
+                    <div class="usp-item">
+                        <img src="assets/images-usp-projects-1.webp" alt="Projects, AI labs, and evaluated practice" class="usp-image">
+                        <div class="usp-text">
+                            <span class="usp-number">03</span>
+                            <h3>Projects, AI labs, and evaluated practice</h3>
+                            <p>Projects, AI labs, and evaluated practice You learn it. You use it. You get evaluated on it. Projects land module by module, tied to real business cases and interview-ready builds. The distance between learning and application is zero.</p>
+                        </div>
+                    </div>
+                    <div class="usp-item">
+                        <img src="assets/images-platform.webp" alt="Scaler-built preparation products" class="usp-image">
+                        <div class="usp-text">
+                            <span class="usp-number">04</span>
+                            <h3>Scaler-built preparation products</h3>
+                            <p>Built at Scaler The practice environment is built to match the hiring environment. Scaler's own coding platform, terminal-based judges, and AI mock interviews are built in-house designed around exactly the way technical hiring works today. Nothing about the real thing should feel unfamiliar.</p>
+                        </div>
+                    </div>
+                    <div class="usp-item">
+                        <img src="assets/images-support.webp" alt="Backed by a Strong Tech Community" class="usp-image">
+                        <div class="usp-text">
+                            <span class="usp-number">05</span>
+                            <h3>Backed by a Strong Tech Community</h3>
+                            <p>Community, accountability, and career support. It is your professional network for the next decade. Structured check-ins, career support, and exclusive access to 1,00,000+ Scaler alumni keep you moving long after the program ends. The community outlasts the curriculum.</p>
+                        </div>
+                    </div>
+                    <div class="usp-item">
+                        <img src="assets/images-lifetime.webp" alt="Learning never ends" class="usp-image">
+                        <div class="usp-text">
+                            <span class="usp-number">06</span>
+                            <h3>Learning never ends</h3>
+                            <p>Lifelong access and continuous learning The program ends. The access does not. Live sessions, regular curriculum updates, and lifetime access to recorded content mean you remain current as the industry moves. Not caught up. Ahead of it.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="report" class="report-section">
+            <div class="container report-content">
+                <p class="section-tag">shaping careers since 2019</p>
+                <h2 class="section-title">In the AI era, proof matters, more than empty promises</h2>
+                <div class="report-main">
+                    <img src="assets/images-placement-proof-default.jpg.jpeg" alt="Scaler cohort" class="report-image">
+                    <div class="report-stats">
+                        <div class="stat-item">
+                            <span class="stat-value">214%</span>
+                            <span class="stat-label">Career transition rate for the assessed 2024 Academy cohort</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value">₹30 LPA</span>
+                            <span class="stat-label">Overall median CTC post-Scaler, up from ₹9 LPA pre-Scaler</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value">120%</span>
+                            <span class="stat-label">Median hike in CTC for learners who completed the program</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value">₹50 LPA</span>
+                            <span class="stat-label">Median CTC for the top 25% of the assessed cohort</span>
+                        </div>
+                        <p class="stat-disclaimer">Based on the 2024 Scaler career transition assessment</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="blog-section">
+            <div class="container blog-content">
+                <p class="section-tag">BLOG</p>
+                <h2 class="section-title">From the Scaler editorial desk</h2>
+                <p class="section-description">Deep dives on AI careers, learning strategies, and what the data actually says about the market</p>
+                <div class="blog-grid">
+                    <a href="#" class="blog-card">
+                        <img src="assets/images-blog_3.webp" alt="AI Agent Frameworks" class="blog-thumbnail">
+                        <h3>AI Agent Frameworks: What It Is & How It Works</h3>
+                        <p>This article covers AI agent frameworks, their framerworks, core fundamentals and implementation</p>
+                        <div class="blog-meta">
+                            <span>Agnish Rawat</span>
+                            <span>20 min read</span>
+                        </div>
+                    </a>
+                    <a href="#" class="blog-card">
+                        <img src="assets/images-blog_3.webp" alt="Will AI Replace Software Engineers?" class="blog-thumbnail">
+                        <h3>Will AI Replace Software Engineers? Truth, Opinions and Career Impact</h3>
+                        <p>Read how AI is changing software development, and where it will replace or automate developer tasks</p>
+                        <div class="blog-meta">
+                            <span>Team Scaler</span>
+                            <span>14 min read</span>
+                        </div>
+                    </a>
+                    <a href="#" class="blog-card">
+                        <img src="assets/images-blog_3.webp" alt="SQL Roadmap 2026" class="blog-thumbnail">
+                        <h3>SQL Roadmap 2026: Learning Path, Career Roles and Tools to Master</h3>
+                        <p>Learn why SQL still matters, paths possible, fundamentals needed and 2026 salary outlook</p>
+                        <div class="blog-meta">
+                            <span>Tushar Bisht</span>
+                            <span>16 min read</span>
+                        </div>
+                    </a>
+                    <a href="#" class="blog-card">
+                        <img src="assets/images-blog_3.webp" alt="Top Generative AI Projects" class="blog-thumbnail">
+                        <h3>Top Generative AI Projects to Build in 2026 to Get You Hired</h3>
+                        <p>Best portfolio-based recommended projects, skills you use, tools and framerworks you neeed to know</p>
+                        <div class="blog-meta">
+                            <span>Team Scaler</span>
+                            <span>19 min read</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="news-section">
+            <div class="container news-content">
+                <p class="section-tag">news</p>
+                <h2 class="section-title">Featured in the News</h2>
+                <div class="news-grid">
+                    <a href="#" class="news-card">
+                        <img src="assets/images-google_start-up_-news.webp" alt="Google for Startups and Scaler" class="news-thumbnail">
+                        <h3>Google for Startups and Scaler launch AI skilling program for Indian founders</h3>
+                        <p class="news-date">10th April, 2026</p>
+                    </a>
+                    <a href="#" class="news-card">
+                        <img src="assets/images-apple_news.webp" alt="Scaler School of Technology Student" class="news-thumbnail">
+                        <h3>Scaler School of Technology Student Becomes Only Indian to Join Apple Developer Academy, Bali</h3>
+                        <p class="news-date">2nd May, 2025</p>
+                    </a>
+                    <a href="#" class="news-card">
+                        <img src="assets/images-gahan-ai_news.webp" alt="Scaler Innovation and Gahan AI" class="news-thumbnail">
+                        <h3>Scaler Innovation and Gahan AI collaborate on autonomous navigation systems for mining industry</h3>
+                        <p class="news-date">26th May, 2025</p>
+                    </a>
+                    <a href="#" class="news-card">
+                        <img src="assets/images-pgp_news.webp" alt="Scaler Innovation and Gahan AI" class="news-thumbnail">
+                        <h3>Scaler Innovation and Gahan AI collaborate on autonomous navigation systems for mining industry</h3>
+                        <p class="news-date">26th May, 2025</p>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="cta-banner-bottom">
+            <div class="container cta-banner-content">
+                <h2 class="cta-banner-title">Ready to build your AI-era career?</h2>
+                <h3 class="cta-banner-subtitle">Talk to an expert to find the right program for you.</h3>
+                <button class="btn btn-primary">REQUEST A CALLBACK</button>
+                <div class="cta-banner-logos">
+                    <img src="assets/images-enterprise_logos.webp" alt="Enterprise logos" class="enterprise-logos">
+                    <img src="assets/images-collab_logos.webp" alt="Collaboration logos" class="collab-logos">
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container footer-content">
+            <div class="footer-top">
+                <div class="footer-brand">
+                    <img src="assets/images-scaler-logo.svg" alt="Scaler Logo" class="footer-logo">
+                    <img src="assets/images-iso-27001-scaler-badge.svg" alt="ISO 27001 Certified" class="iso-badge">
+                    <p class="tagline">The investment that compounds.</p>
+                </div>
+                <div class="footer-app-download">
+                    <p>Download the Scaler App</p>
+                    <div class="qr-code">
+                        <img src="assets/images-scaler-app-qr-code.svg" alt="QR Code">
+                    </div>
+                    <div class="app-stores">
+                        <a href="#"><img src="assets/images-google-play.svg" alt="Google Play"></a>
+                        <!-- <a href="#"><img src="assets/images-app-store.svg" alt="App Store"></a> -->
+                    </div>
+                </div>
+            </div>
+            <div class="footer-links-grid">
+                <div class="footer-col">
+                    <h3>Programs</h3>
+                    <ul>
+                        <li><a href="#">Academy Online Courses for Professionals</a></li>
+                        <li><a href="#">Data Science & Machine Learning</a></li>
+                        <li><a href="#">DevOps & Cloud</a></li>
+                        <li><a href="#">AI & Machine Learning</a></li>
+                        <li><a href="#">IIT Roorkee Advanced AI Engineering</a></li>
+                        <li><a href="#">PGP in Business & AI</a></li>
+                        <li><a href="#">NeoVarsity</a></li>
+                        <li><a href="#">NeoVarsity (Old)</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h3>Company</h3>
+                    <ul>
+                        <li><a href="#">Alumni</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">Careers</a></li>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Mentor</a></li>
+                        <li><a href="#">Teaching Assistant</a></li>
+                        <li><a href="#">Enterprise</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h3>Resources</h3>
+                    <ul>
+                        <li><a href="#">Terms & Conditions</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Refund Policy</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h3>Contact Us</h3>
+                    <p>Need help? Talk to us at:</p>
+                    <a href="tel:08047939623" class="contact-number">08047939623</a>
+                    <p>Follow Us</p>
+                    <div class="social-icons">
+                        <a href="#"><img src="assets/images-twitter_icon.svg" alt="Twitter"></a>
+                        <a href="#"><img src="assets/images-quora_icon.svg" alt="Quora"></a>
+                        <!-- Add other social icons as needed -->
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <img src="assets/images-create-impact-tagline.svg" alt="Create Impact Tagline" class="create-impact-tagline">
+                <p>&copy; 2024 InterviewBit Technologies Pvt. Ltd.</p>
+            </div>
+        </div>
+    </footer>
+
+    <div class="fixed-bottom-cta">
+        <div class="container fixed-bottom-cta-content">
+            <div class="fixed-bottom-contact">
+                Need help? Talk to us at: <a href="tel:08047939623">08047939623</a> or <a href="#">Request a Call</a>
+            </div>
+            <button class="btn btn-primary">Book Free Live Class</button>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>
+---FILE:styles.css---
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Source+Serif+4:wght@400;700&display=swap');
+
+:root {
+    /* Fonts */
+    --font-sans: 'Plus Jakarta Sans', sans-serif;
+    --font-serif: 'Source Serif 4', serif;
+    --font-mono: 'Plus Jakarta Sans', monospace; /* Using sans for mono as per brief */
+
+    /* Spacing & Radius */
+    --radius: 0rem;
+    --spacing: 0.25rem;
+
+    /* Shadows */
+    --shadow-x: 0px;
+    --shadow-y: 2px;
+    --shadow-blur: 4px;
+    --shadow-spread: -2px;
+    --shadow-color: #1a1a1a;
+    --shadow-2xs: 0px 1px 2px hsl(0 0% 0% / 0.17);
+    --shadow-xs: 0px 1px 2px hsl(0 0% 0% / 0.17);
+    --shadow-sm: 0px 1px 4px -1px hsl(0 0% 0% / 0.17), 0px 1px 2px -1px hsl(0 0% 0% / 0.17);
+    --shadow-md: 0px 9.5px 0px 6.5px hsl(0 0% 0% / 0.17), 0px 4px 6px -1px hsl(0 0% 0% / 0.17);
+    --shadow-lg: 0px 4px 6px -4px hsl(0 0% 0% / 0.17), 0px 10px 15px -3px hsl(0 0% 0% / 0.17);
+    --shadow-xl: 0px 4px 6px -4px hsl(0 0% 0% / 0.17), 0px 8px 10px -1px hsl(0 0% 0% / 0.17);
+    --shadow-2xl: 0px 1px 2px hsl(0 0% 0% / 0.17);
+    --shadow: 0px 2px 4px -2px hsl(0 0% 0% / 0.17), 0px 1px 2px 5.5px hsl(0 0% 0% / 0.17);
+
+    /* Brand Colors */
+    --brand-10: #E6F0FF;
+    --brand-20: #B3D1FF;
+    --brand-30: #6BA3FF;
+    --brand-40: #2B7AFF;
+    --brand-50: #004CE5; /* Primary brand blue */
+    --brand-60: #003DBB;
+    --brand-70: #003092;
+    --brand-80: #00236E;
+    --brand-90: #011A53;
+    --brand-100: #011845;
+
+    /* Primary CTA Colors */
+    --primary-cta-10: #FFE6F1;
+    --primary-cta-20: #E8B2CD;
+    --primary-cta-30: #D980AB;
+    --primary-cta-40: #BB1A69;
+    --primary-cta-50: #B30058;
+
+    /* Neutral Colors */
+    --neutral-0: #FFFFFF; /* White */
+    --neutral-10: #FAFAFA;
+    --neutral-20: #F5F5F5;
+    --neutral-30: #F0F0F0;
+    --neutral-40: #E4E4E4; /* Border color */
+    --neutral-50: #D4D4D4;
+    --neutral-60: #C1C1C1;
+    --neutral-70: #AAAAAA;
+    --neutral-80: #929292;
+    --neutral-90: #787878;
+    --neutral-100: #616161;
+    --neutral-110: #4B4B4B;
+    --neutral-120: #3A3A3A;
+    --neutral-130: #2B2B2B;
+    --neutral-140: #212121;
+    --neutral-150: #171717;
+    --neutral-160: #121212; /* Darkest text/background */
+
+    /* Global Colors */
+    --global-10: #0052FF;
+    --global-20: #0074D9;
+    --global-30: #006DD9;
+    --global-40: #00B7BD;
+    --global-50: #D90065;
+    --global-60: #D8A901;
+    --global-70: #D97C00;
+    --global-80: #00B1A2;
+    --global-90: #913ECE;
+    --global-100: #5750B3;
+    --global-110: #1D925B;
+    --global-120: #00B42C;
+    --global-130: #C32742;
+    --global-140: #D77C00;
+    --global-150: #C89314;
+    --global-160: #CC0016;
+
+    /* Semantic Colors */
+    --destructive: var(--global-160);
+    --destructive-foreground: var(--neutral-0);
+    --primary: var(--brand-50);
+    --primary-foreground: var(--neutral-0);
+    --background: var(--neutral-0);
+    --foreground: var(--neutral-160);
+    --muted: var(--neutral-30);
+    --muted-foreground: var(--neutral-90);
+    --border: var(--neutral-40);
+    --input: var(--neutral-40);
+    --ring: var(--neutral-40);
+
+    /* Gradients */
+    --brand-gradient-from: #06add8;
+    --brand-gradient-to: #0058fe;
+}
+
+/* Base Styles */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-sans);
+    line-height: 1.5;
+    color: var(--foreground);
+    background-color: var(--background);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Utility Classes */
+.container {
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.5rem; /* 24px */
+    padding-right: 1.5rem; /* 24px */
+}
+
+@media (min-width: 1024px) {
+    .container {
+        padding-left: 2.5rem; /* 40px */
+        padding-right: 2.5rem; /* 40px */
+    }
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.75rem 1.5rem; /* 12px 24px */
+    font-size: 0.875rem; /* 14px */
+    font-weight: 500;
+    line-height: 1;
+    border-radius: var(--radius);
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    white-space: nowrap;
+}
+
+.btn-primary {
+    background-color: var(--primary);
+    color: var(--primary-foreground);
+    border: 1px solid var(--primary);
+}
+
+.btn-primary:hover {
+    background-color: var(--brand-60);
+    border-color: var(--brand-60);
+}
+
+.btn-secondary {
+    background-color: var(--neutral-0);
+    color: var(--brand-50);
+    border: 1px solid var(--brand-50);
+}
+
+.btn-secondary:hover {
+    background-color: var(--brand-10);
+}
+
+.btn-outline {
+    background-color: transparent;
+    color: var(--brand-90);
+    border: 1px solid var(--brand-90);
+}
+
+.btn-outline:hover {
+    background-color: var(--brand-10);
+}
+
+.section-tag {
+    font-size: 0.875rem; /* 14px */
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--neutral-90);
+    margin-bottom: 0.5rem;
+}
+
+.section-title {
+    font-family: var(--font-sans);
+    font-size: 2.25rem; /* 36px */
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--brand-100);
+    margin-bottom: 1rem;
+}
+
+.section-description {
+    font-size: 1rem; /* 16px */
+    color: var(--neutral-100);
+    margin-bottom: 2rem;
+    max-width: 760px;
+}
+
+@media (min-width: 768px) {
+    .section-title {
+        font-size: 2.5rem; /* 40px */
+    }
+}
+
+/* Navbar */
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    border-bottom: 1px solid var(--border);
+    background-color: var(--background);
+    padding: 0.75rem 0; /* 12px */
+}
+
+.navbar-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.navbar .logo img {
+    height: 1.5rem; /* 24px */
+    width: auto;
+    object-fit: contain;
+}
+
+@media (min-width: 768px) {
+    .navbar .logo img {
+        height: 2rem; /* 32px */
+    }
+}
+
+.navbar .nav-links {
+    display: none;
+    align-items: center;
+    gap: 0.25rem; /* 4px */
+}
+
+@media (min-width: 1024px) {
+    .navbar .nav-links {
+        display: flex;
+    }
+}
+
+.navbar .nav-button,
+.navbar .nav-link {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    height: 2.25rem; /* 36px */
+    padding: 0.5rem 1rem; /* 8px 16px */
+    font-size: 0.875rem; /* 14px */
+    font-weight: 500;
+    color: var(--foreground);
+    transition: color 0.2s ease-in-out;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.navbar .nav-button:hover,
+.navbar .nav-link:hover {
+    color: var(--primary);
+}
+
+.navbar .nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem; /* 12px */
+}
+
+.navbar .nav-actions .btn {
+    padding: 0.5rem 1rem; /* 8px 16px */
+    font-size: 0.75rem; /* 12px */
+}
+
+@media (min-width: 768px) {
+    .navbar .nav-actions .btn {
+        padding: 0.75rem 1.5rem; /* 12px 24px */
+        font-size: 0.875rem; /* 14px */
+    }
+}
+
+/* Sticky Nav (below hero) */
+.sticky-nav {
+    position: sticky;
+    top: 4.5rem; /* Height of main navbar */
+    z-index: 40;
+    background-color: var(--neutral-0);
+    border-bottom: 1px solid var(--border);
+    padding: 0.75rem 0;
+    display: none; /* Hidden by default, shown by JS on scroll */
+}
+
+.sticky-nav-content {
+    display: flex;
+    gap: 1.5rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+}
+
+.sticky-nav-content::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+}
+
+.sticky-nav-link {
+    white-space: nowrap;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--muted-foreground);
+    padding: 0.25rem 0;
+    transition: color 0.2s ease-in-out;
+}
+
+.sticky-nav-link:hover,
+.sticky-nav-link.active {
+    color: var(--primary);
+}
+
+/* Hero Section */
+.hero-section {
+    background-color: var(--background);
+    padding: 4rem 0 6rem;
+    position: relative;
+    overflow: hidden;
+    /* Add subtle background pattern if desired, otherwise keep it clean */
+    /* background-image: url('path/to/subtle-pattern.svg'); */
+    /* background-size: cover; */
+    /* background-position: center; */
+}
+
+.hero-content {
+    text-align: center;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero-subtitle {
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--neutral-90);
+    margin-bottom: 1rem;
+}
+
+.hero-title {
+    font-family: var(--font-sans);
+    font-size: 2.5rem; /* 40px */
+    font-weight: 800;
+    line-height: 1.1;
+    color: var(--brand-100);
+    margin-bottom: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .hero-title {
+        font-size: 4rem; /* 64px */
+    }
+}
+
+.hero-title .highlight-text {
+    background: linear-gradient(to right, var(--brand-gradient-from), var(--brand-gradient-to));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+.hero-description {
+    font-size: 1.125rem; /* 18px */
+    color: var(--neutral-100);
+    max-width: 700px;
+    margin: 0 auto 2.5rem;
+}
+
+.program-categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem 1.5rem; /* 12px 24px */
+    margin-bottom: 2.5rem;
+    font-size: 0.875rem;
+    color: var(--neutral-90);
+}
+
+.program-categories span {
+    position: relative;
+    padding: 0 0.75rem;
+}
+
+.program-categories span:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    right: -0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1px;
+    height: 80%;
+    background-color: var(--neutral-50);
+}
+
+.hero-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+    .hero-actions {
+        flex-direction: row;
+        justify-content: center;
+        max-width: none;
+    }
+}
+
+/* CTA Bar (AI Ready) */
+.cta-bar {
+    background-color: var(--brand-90);
+    padding: 1.5rem 0;
+}
+
+.cta-bar-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .cta-bar-content {
+        flex-direction: row;
+        justify-content: space-between;
+        text-align: left;
+    }
+}
+
+.cta-bar-text {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--neutral-0);
+}
+
+.cta-bar-text .cta-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+/* Why Scaler Section */
+.why-scaler-section {
+    background-color: var(--brand-80);
+    padding: 5rem 0;
+    color: var(--neutral-0);
+}
+
+.why-scaler-content {
+    text-align: center;
+}
+
+.why-scaler-content .section-tag {
+    color: var(--brand-20);
+}
+
+.why-scaler-content .section-title {
+    color: var(--neutral-0);
+    max-width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.why-scaler-content .section-description {
+    color: var(--brand-10);
+    max-width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feature-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-top: 3rem;
+}
+
+@media (min-width: 768px) {
+    .feature-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .feature-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.feature-card {
+    background-color: var(--neutral-0);
+    color: var(--brand-100);
+    padding: 2rem;
+    border-radius: var(--radius);
+    text-align: left;
+    border: 1px solid var(--brand-40);
+    transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.feature-card:hover {
+    border-color: var(--brand-50);
+    box-shadow: var(--shadow-sm);
+}
+
+.feature-card .feature-icon {
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.feature-card h3 {
+    font-size: 1.25rem; /* 20px */
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    color: var(--brand-100);
+}
+
+.feature-card p {
+    font-size: 0.875rem; /* 14px */
+    color: var(--neutral-100);
+}
+
+.curriculum-by {
+    font-size: 0.875rem;
+    color: var(--brand-20);
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.logo-strip {
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    height: 2rem; /* Adjust based on image height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-strip .marquee-image {
+    display: inline-block;
+    height: 100%;
+    width: auto;
+    object-fit: contain;
+    filter: grayscale(100%) brightness(0) invert(1); /* Make logos white */
+    opacity: 0.7;
+}
+
+/* CTA Bar (Download Brochure) */
+.cta-bar-download {
+    background-color: var(--neutral-20);
+    color: var(--neutral-160);
+}
+
+.cta-bar-download .cta-bar-text {
+    color: var(--neutral-160);
+}
+
+.cta-bar-download .btn-primary {
+    background-color: var(--brand-90);
+    border-color: var(--brand-90);
+}
+
+.cta-bar-download .btn-primary:hover {
+    background-color: var(--brand-80);
+    border-color: var(--brand-80);
+}
+
+/* Program Section */
+.program-section {
+    padding: 5rem 0;
+    background-color: var(--background);
+}
+
+.program-content {
+    text-align: center;
+}
+
+.program-content .section-description {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.program-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+.program-tab {
+    background-color: var(--neutral-0);
+    border: 1px solid var(--border);
+    padding: 0.75rem 1.5rem;
+    border-radius: var(--radius);
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--neutral-100);
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    white-space: nowrap;
+}
+
+.program-tab:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.program-tab.active {
+    background-color: var(--primary);
+    color: var(--primary-foreground);
+    border-color: var(--primary);
+}
+
+.program-details-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+@media (min-width: 1024px) {
+    .program-details-wrapper {
+        flex-direction: row;
+        align-items: flex-start;
+        text-align: left;
+    }
+}
+
+.program-nav {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: var(--neutral-0);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+}
+
+@media (min-width: 1024px) {
+    .program-nav {
+        width: 300px;
+        flex-shrink: 0;
+    }
+}
+
+.program-nav-item {
+    display: block;
+    width: 100%;
+    padding: 1rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--neutral-100);
+    background: none;
+    border: none;
+    border-left: 5px solid transparent;
+    text-align: left;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.program-nav-item:hover {
+    background-color: var(--neutral-10);
+    color: var(--neutral-160);
+}
+
+.program-nav-item.active {
+    border-left-color: var(--brand-80);
+    background-color: var(--neutral-20);
+    color: var(--neutral-160);
+}
+
+.program-card {
+    background-color: var(--brand-90);
+    color: var(--neutral-0);
+    padding: 2rem;
+    border-radius: var(--radius);
+    flex-grow: 1;
+    position: relative;
+    text-align: left;
+}
+
+.program-card-tag {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    color: var(--brand-20);
+    margin-bottom: 0.5rem;
+}
+
+.program-card-header {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .program-card-header {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.program-card-title {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--neutral-0);
+}
+
+.program-card-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-start;
+}
+
+@media (min-width: 768px) {
+    .program-card-meta {
+        align-items: flex-end;
+    }
+}
+
+.program-card-meta .rating {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--neutral-0);
+}
+
+.program-card-meta .stars-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.program-card-meta .rating-count {
+    font-size: 0.875rem;
+    color: var(--brand-20);
+}
+
+.program-card-meta .duration {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--neutral-0);
+}
+
+.program-card-body h4 {
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    color: var(--brand-20);
+    margin-bottom: 1rem;
+}
+
+.program-card-body ul {
+    list-style: none;
+    margin-bottom: 2rem;
+}
+
+.program-card-body ul li {
+    display: flex;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    color: var(--neutral-0);
+}
+
+.program-card-body ul li span:first-child {
+    font-weight: 700;
+    color: var(--brand-20);
+}
+
+.program-card-body p {
+    font-size: 1rem;
+    color: var(--neutral-0);
+}
+
+.program-card-decoration {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 3rem; /* Adjust size as needed */
+    height: auto;
+    opacity: 0.3;
+}
+
+.program-card-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+@media (min-width: 768px) {
+    .program-card-actions {
+        flex-direction: row;
+    }
+}
+
+.program-card-actions .btn-outline {
+    border-color: var(--neutral-0);
+    color: var(--neutral-0);
+}
+
+.program-card-actions .btn-outline:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Stories Section */
+.stories-section {
+    padding: 5rem 0;
+    background-color: var(--neutral-10);
+}
+
+.stories-content {
+    text-align: center;
+}
+
+.stories-content .section-description {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 3rem;
+}
+
+.story-card {
+    background-color: var(--neutral-0);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    position: relative;
+}
+
+.story-hike {
+    font-size: 2.25rem;
+    font-weight: 700;
+    color: var(--brand-100);
+    margin-bottom: 0.5rem;
+}
+
+.story-hike .hike-label {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--neutral-100);
+}
+
+.story-name {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--brand-100);
+}
+
+.story-role {
+    font-size: 0.875rem;
+    color: var(--neutral-100);
+}
+
+.story-before, .story-now {
+    font-size: 0.75rem;
+    color: var(--neutral-90);
+}
+
+.story-offers {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--brand-50);
+    margin-top: 0.5rem;
+}
+
+.story-explore {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--brand-50);
+    margin-top: 0.5rem;
+}
+
+.story-card-quote {
+    background-color: var(--brand-10);
+    border-color: var(--brand-20);
+}
+
+.story-quote {
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--neutral-110);
+    margin-bottom: 1rem;
+}
+
+.story-rating {
+    color: gold; /* Placeholder for star color */
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.story-card-image .story-image,
+.story-card-video .story-video-thumbnail {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: var(--radius);
+    margin-bottom: 1rem;
+}
+
+.story-card-video {
+    position: relative;
+}
+
+.story-card-video .play-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.6);
+    border: none;
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.story-card-video .play-button::before {
+    content: '';
+    border-left: 1rem solid var(--neutral-0);
+    border-top: 0.6rem solid transparent;
+    border-bottom: 0.6rem solid transparent;
+    margin-left: 0.2rem;
+}
+
+/* Instructors Section */
+.instructors-section {
+    padding: 5rem 0;
+    background-color: var(--background);
+}
+
+.instructors-content {
+    text-align: center;
+}
+
+.instructors-content .section-description {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.instructor-marquee {
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    margin-top: 3rem;
+    height: 200px; /* Adjust based on image height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.instructor-marquee .marquee-image {
+    display: inline-block;
+    height: 100%;
+    width: auto;
+    object-fit: contain;
+    animation: marquee 30s linear infinite; /* Adjust duration as needed */
+}
+
+@keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
+
+/* Podcast Section */
+.podcast-section {
+    padding: 5rem 0;
+    background-color: var(--neutral-10);
+}
+
+.podcast-content {
+    text-align: center;
+}
+
+.podcast-content .section-description {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.podcast-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-top: 3rem;
+}
+
+@media (min-width: 768px) {
+    .podcast-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .podcast-grid {
+        grid-template-columns: 2fr 1fr 1fr; /* Main podcast wider */
+    }
+}
+
+.podcast-card {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--neutral-0);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    text-align: left;
+    transition: box-shadow 0.2s ease-in-out;
+}
+
+.podcast-card:hover {
+    box-shadow: var(--shadow-sm);
+}
+
+.podcast-card .podcast-thumbnail {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.podcast-card .podcast-info {
+    padding: 1.5rem;
+}
+
+.podcast-card h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--brand-100);
+    margin-bottom: 0.5rem;
+}
+
+.podcast-card p {
+    font-size: 0.875rem;
+    color: var(--neutral-100);
+}
+
+.podcast-card .podcast-guest {
+    font-size: 0.75rem;
+    color: var(--neutral-90);
+}
+
+.podcast-card.main-podcast {
+    grid-column: span 1;
+}
+
+@media (min-width: 1024px) {
+    .podcast-card.main-podcast {
+        grid-column: span 2;
+        flex-direction: row;
+    }
+    .podcast-card.main-podcast .podcast-thumbnail {
+        width: 50%;
+        height: auto;
+    }
+    .podcast-card.main-podcast .podcast-info {
+        width: 50%;
+    }
+}
+
+/* How Scaler Works Section (USP) */
+.how-scaler-works-section {
+    padding: 5rem 0;
+    background-color: var(--background);
+}
+
+.how-scaler-works-content {
+    text-align: center;
+}
+
+.how-scaler-works-content .section-description {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.usp-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    margin-top: 3rem;
+}
+
+.usp-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .usp-item {
+        flex-direction: row;
+        text-align: left;
+        align-items: flex-start;
+    }
+    .usp-item:nth-child(even) {
+        flex-direction: row-reverse;
+    }
+}
+
+.usp-item .usp-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    object-fit: contain;
+    margin-bottom: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .usp-item .usp-image {
+        width: 50%;
+        max-width: none;
+        margin-bottom: 0;
+    }
+    .usp-item:nth-child(even) .usp-image {
+        margin-left: 2rem;
+    }
+    .usp-item:nth-child(odd) .usp-image {
+        margin-right: 2rem;
+    }
+}
+
+.usp-item .usp-text {
+    flex-grow: 1;
+    max-width: 500px;
+}
+
+.usp-item .usp-number {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--brand-50);
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.usp-item h3 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--neutral-160);
+    margin-bottom: 1rem;
+}
+
+.usp-item p {
+    font-size: 1rem;
+    color: var(--neutral-100);
+}
+
+/* Report Section */
+.report-section {
+    padding: 5rem 0;
+    background-color: var(--neutral-20);
+}
+
+.report-content {
+    text-align: center;
+}
+
+.report-content .section-description {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.report-main {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 3rem;
+    align-items: center;
+}
+
+@media (min-width: 1024px) {
+    .report-main {
+        flex-direction: row;
+        align-items: flex-start;
+        text-align: left;
+    }
+}
+
+.report-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    object-fit: cover;
+    border-radius: var(--radius);
+}
+
+@media (min-width: 1024px) {
+    .report-image {
+        width: 60%;
+    }
+}
+
+.report-stats {
+    flex-grow: 1;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .report-stats {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .report-stats {
+        text-align: left;
+    }
+}
+
+.stat-item {
+    background-color: var(--neutral-0);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.stat-value {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--brand-100);
+    line-height: 1;
+}
+
+.stat-label {
+    font-size: 0.875rem;
+    color: var(--neutral-100);
+}
+
+.stat-disclaimer {
+    grid-column: 1 / -1;
+    font-size: 0.75rem;
+    color: var(--neutral-90);
+    margin-top: 1rem;
+}
+
+/* Blog Section */
+.blog-section {
+    padding: 5rem 0;
+    background-color: var(--background);
+}
+
+.blog-content {
+    text-align: center;
+}
+
+.blog-content .section-description {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 3rem;
+}
+
+.blog-card {
+    background-color: var(--neutral-0);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    text-align: left;
+    transition: box-shadow 0.2s ease-in-out;
+}
+
+.blog-card:hover {
+    box-shadow: var(--shadow-sm);
+}
+
+.blog-card .blog-thumbnail {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.blog-card h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--brand-100);
+    padding: 1rem 1.5rem 0.5rem;
+}
+
+.blog-card p {
+    font-size: 0.875rem;
+    color: var(--neutral-100);
+    padding: 0 1.5rem 1rem;
+}
+
+.blog-card .blog-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.75rem;
+    color: var(--neutral-90);
+    padding: 0.5rem 1.5rem 1.5rem;
+    border-top: 1px solid var(--neutral-30);
+    margin-top: 1rem;
+}
+
+/* News Section */
+.news-section {
+    padding: 5rem 0;
+    background-color: var(--neutral-10);
+}
+
+.news-content {
+    text-align: center;
+}
+
+.news-content .section-description {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 3rem;
+}
+
+.news-card {
+    background-color: var(--neutral-0);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    text-align: left;
+    transition: box-shadow 0.2s ease-in-out;
+}
+
+.news-card:hover {
+    box-shadow: var(--shadow-sm);
+}
+
+.news-card .news-thumbnail {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.news-card h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--brand-100);
+    padding: 1rem 1.5rem 0.5rem;
+}
+
+.news-card .news-date {
+    font-size: 0.75rem;
+    color: var(--neutral-90);
+    padding: 0 1.5rem 1.5rem;
+}
+
+/* CTA Banner Bottom */
+.cta-banner-bottom {
+    background-color: var(--brand-90);
+    background-image: url('assets/images-relevance-bg-desktop.png'); /* Desktop background */
+    background-size: cover;
+    background-position: center;
+    padding: 5rem 0;
+    text-align: center;
+    color: var(--neutral-0);
+    position: relative;
+}
+
+@media (max-width: 767px) {
+    .cta-banner-bottom {
+        background-image: url('assets/images-relevance-bg-mobile.png'); /* Mobile background */
+    }
+}
+
+.cta-banner-content {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.cta-banner-title {
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--neutral-0);
+}
+
+.cta-banner-subtitle {
+    font-size: 1.125rem;
+    color: var(--brand-20);
+}
+
+.cta-banner-bottom .btn-primary {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.cta-banner-bottom .btn-primary:hover {
+    background-color: var(--brand-60);
+    border-color: var(--brand-60);
+}
+
+.cta-banner-logos {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 2rem;
+    width: 100%;
+    align-items: center;
+}
+
+@media (min-width: 768px) {
+    .cta-banner-logos {
+        flex-direction: row;
+        justify-content: center;
+        gap: 2rem;
+    }
+}
+
+.cta-banner-logos img {
+    height: 2.5rem; /* Adjust height as needed */
+    width: auto;
+    object-fit: contain;
+    filter: grayscale(100%) brightness(0) invert(1); /* Make logos white */
+    opacity: 0.8;
+}
+
+.cta-banner-logos .enterprise-logos {
+    max-width: 400px;
+}
+
+.cta-banner-logos .collab-logos {
+    max-width: 250px;
+}
+
+/* Footer */
+.footer {
+    background-color: var(--neutral-10);
+    border-top: 1px solid var(--border);
+    padding: 3rem 0;
+    color: var(--neutral-100);
+    font-size: 0.875rem;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.footer-top {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--neutral-30);
+}
+
+@media (min-width: 768px) {
+    .footer-top {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+}
+
+.footer-brand {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+.footer-logo {
+    height: 2rem;
+    width: auto;
+}
+
+.iso-badge {
+    width: 5rem;
+    height: 5rem;
+}
+
+.footer-brand .tagline {
+    font-size: 0.875rem;
+    color: var(--neutral-90);
+}
+
+.footer-app-download {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.footer-app-download p {
+    font-weight: 600;
+    color: var(--neutral-160);
+}
+
+.qr-code img {
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+}
+
+.app-stores {
+    display: flex;
+    gap: 0.75rem;
+}
+
+.app-stores img {
+    height: 2.5rem;
+    width: auto;
+}
+
+.footer-links-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.footer-col h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--primary);
+    margin-bottom: 1rem;
+}
+
+.footer-col ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.footer-col a {
+    color: var(--muted-foreground);
+    transition: color 0.2s ease-in-out;
+}
+
+.footer-col a:hover {
+    color: var(--primary);
+}
+
+.footer-col .contact-number {
+    font-weight: 600;
+    color: var(--neutral-160);
+    margin-top: 0.5rem;
+    display: inline-block;
+}
+
+.social-icons {
+    display: flex;
+    gap: 0.75rem;
+    margin-top: 0.75rem;
+}
+
+.social-icons img {
+    width: 1.25rem;
+    height: 1.25rem;
+    opacity: 0.7;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.social-icons img:hover {
+    opacity: 1;
+}
+
+.footer-bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--neutral-30);
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .footer-bottom {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+
+.create-impact-tagline {
+    height: 2rem;
+    width: auto;
+    object-fit: contain;
+}
+
+.footer-bottom p {
+    font-size: 0.75rem;
+    color: var(--neutral-90);
+}
+
+/* Fixed Bottom CTA Bar */
+.fixed-bottom-cta {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--brand-90);
+    color: var(--neutral-0);
+    padding: 1rem 0;
+    z-index: 100;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+}
+
+.fixed-bottom-cta-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .fixed-bottom-cta-content {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+
+.fixed-bottom-contact {
+    font-size: 0.875rem;
+}
+
+.fixed-bottom-contact a {
+    color: var(--neutral-0);
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.fixed-bottom-cta .btn-primary {
+    padding: 0.75rem 1.5rem;
+    font-size: 0.875rem;
+}
+
+/* Hide elements for smaller screens if necessary */
+@media (max-width: 1023px) {
+    .navbar .nav-links {
+        display: none;
+    }
+    .navbar .nav-actions .btn-secondary {
+        display: none; /* Hide Login button on small screens */
+    }
+}
+
+/* Adjustments for very small screens */
+@media (max-width: 480px) {
+    .hero-title {
+        font-size: 2rem;
+    }
+    .hero-description {
+        font-size: 1rem;
+    }
+    .program-categories {
+        font-size: 0.75rem;
+    }
+    .cta-bar-text {
+        font-size: 0.875rem;
+    }
+    .section-title {
+        font-size: 1.75rem;
+    }
+    .program-card-title {
+        font-size: 1.5rem;
+    }
+    .story-hike {
+        font-size: 1.75rem;
+    }
+    .stat-value {
+        font-size: 2rem;
+    }
+    .cta-banner-title {
+        font-size: 1.75rem;
+    }
+    .cta-banner-subtitle {
+        font-size: 1rem;
+    }
+    .footer-links-grid {
+        grid-template-columns: 1fr;
+    }
+}
+---FILE:script.js---
+document.addEventListener('DOMContentLoaded', () => {
+    // Smooth scrolling for anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            document.querySelector(this.getAttribute('href')).scrollIntoView({
+                behavior: 'smooth'
+            });
+        });
+    });
+
+    // Sticky navigation bar logic
+    const stickyNav = document.querySelector('.sticky-nav');
+    const heroSection = document.querySelector('.hero-section');
+    const navbarHeight = document.querySelector('.navbar').offsetHeight;
+
+    const observer = new IntersectionObserver(
+        ([entry]) => {
+            if (entry.isIntersecting) {
+                stickyNav.style.display = 'none';
+            } else {
+                stickyNav.style.display = 'block';
+            }
+        },
+        {
+            rootMargin: `-${navbarHeight}px 0px 0px 0px`, // Trigger when hero is out of view
+            threshold: 0 // Trigger as soon as it leaves
+        }
+    );
+
+    if (heroSection) {
+        observer.observe(heroSection);
+    }
+
+    // Program tabs functionality
+    const programTabs = document.querySelectorAll('.program-tab');
+    const programNavItems = document.querySelectorAll('.program-nav-item');
+    const programDetailsCards = document.querySelectorAll('.program-card'); // Assuming multiple cards for different programs
+
+    function activateProgram(programId) {
+        programDetailsCards.forEach(card => {
+            card.style.display = 'none';
+        });
+        const activeCard = document.getElementById(`${programId}-details`);
+        if (activeCard) {
+            activeCard.style.display = 'block';
+        }
+    }
+
+    programTabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            programTabs.forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            // In a real scenario, this would filter/load programs based on tab
+            // For this static page, we'll just activate the first program nav item
+            programNavItems[0].click(); // Simulate click on first program nav item
+        });
+    });
+
+    programNavItems.forEach(item => {
+        item.addEventListener('click', () => {
+            programNavItems.forEach(i => i.classList.remove('active'));
+            item.classList.add('active');
+            const programId = item.dataset.program;
+            activateProgram(programId);
+        });
+    });
+
+    // Initialize first program tab and item as active
+    if (programTabs.length > 0) {
+        programTabs[0].classList.add('active');
+    }
+    if (programNavItems.length > 0) {
+        programNavItems[0].classList.add('active');
+        activateProgram(programNavItems[0].dataset.program);
+    }
+});
+---END---

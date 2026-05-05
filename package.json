@@ -1,0 +1,20 @@
+{
+  "name": "image-site-cli",
+  "version": "1.0.0",
+  "description": "Conversational CLI agent that generates a Scaler Academy website clone.",
+  "type": "module",
+  "bin": {
+    "image-site": "./bin/image-site.js",
+    "scaler-agent": "./bin/agent-cli.js"
+  },
+  "scripts": {
+    "start": "node ./bin/agent-cli.js",
+    "generate": "node ./bin/image-site.js",
+    "collect": "node ./bin/collect-website.js",
+    "serve": "node ./bin/serve-site.js generated-site"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "playwright-core": "^1.59.1"
+  }
+}

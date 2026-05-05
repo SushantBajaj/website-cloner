@@ -1,0 +1,8 @@
+.env
+generated-site/
+runs/
+node_modules/
+.agents
+.codex
+.extracted
+.screenshot
